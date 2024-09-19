@@ -5,7 +5,7 @@
 📫 Open to full-time or contract-to-hire opportunities.\
 🔭 Currently working as a contactor for BHC ISS and Omega Agency in NC\
 🌱 Learning how to build a FinTech app\
-⚡ Fun Fact: I played basketball and softball in high school.\
+⚡ Fun Fact: I played basketball and softball in high school.
 
 I like to think of myself as an eternal student at heart. If I could be paid to stay in school, I would. That being said, I'm a frontend engineer who spends a lot of time letting my curiosity lead in growth while taming it just enough that I'm not chasing the next shiny tool. I learn best by diving into new tools, trying them out in personal projects. I've worked with companies in the fire & life safety, eCommerce, and food & hospitality industries rebuilding older websites, improving accessibility, and implementing SEO practices on the frontend. My ultimate tech industry goal is to break into FinTech and become a senior dev.
 
