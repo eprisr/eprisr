@@ -1,4 +1,4 @@
-![Intro_Banner: LinkedIn eprishb, Github eprisr Website www.eprisr.com](https://github.com/user-attachments/assets/23510744-2998-44ae-ba43-3df4a0f29e5a)
+![Intro_Banner: LinkedIn eprishb, Github eprisr Website www.eprisr.com](/Github-Banner.png)
 
 ## :wave: Hello! I'm Epris (pronounced aye-pree) <img src="https://komarev.com/ghpvc/?username=eprisr&style=flat-square&color=blue" alt="profile views"/>
 
